@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Susan Shaju</h1>
 <h3 align="center">I am a passionate data analyst, a fresher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasusanshaju&label=Profile%20views&color=0e75b6&style=flat" alt="snehasusanshaju" /> </p>
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
@@ -17,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/snehasusanshaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/snehasusanshaju/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sneha_ds21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sneha_ds21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
