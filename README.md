@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasusanshaju&label=Profile%20views&color=0e75b6&style=flat" alt="snehasusanshaju" /> </p>
 
+
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SnehaSusanShaju?tab=repositories](https://github.com/SnehaSusanShaju?tab=repositories)
@@ -10,8 +11,6 @@
 - 💬 Ask me about **Data Analysis, Machine learning, Pandas, NumPy**
 
 - 📫 How to reach me **snehasusanshaju@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fWvo11coO2mo-E7WhICAITwQLc2GlUqc/view?usp=sharing](https://drive.google.com/file/d/1fWvo11coO2mo-E7WhICAITwQLc2GlUqc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
